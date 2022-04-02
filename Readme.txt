@@ -5,7 +5,7 @@ If you are planning to refer this code for your project you need to have strong 
     3) Programming Logic.
 This is a little complex project for beginner's
 
-Please do follow me on Linkedin :- https://www.linkedin.com/in/karan-shah-b7a778228/
+Please do follow me on Linkedin :- https://www.linkedin.com/in/karan-shah2001/
 
 
 Tic Tac Toe Game
